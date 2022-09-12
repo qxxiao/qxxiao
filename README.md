@@ -15,7 +15,6 @@
 - 🔭 Location: WuHan
 - 🌱 Hobby：Reading & Coding
 - ⚡ C++ / Go / Java
-- 📫 Contact me: 1785099588@qq.com
 - ✍️ [Blogger](https://cnblogs/qxxiao)
 - 🌙 Dream：AK LeetCode 
 
