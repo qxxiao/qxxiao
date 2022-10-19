@@ -8,7 +8,7 @@
 
 <p align="left">
   <img src="https://github-readme-stats-sigma-orcin-84.vercel.app/api?username=qxxiao&show_icons=true&theme=tokyonight" alt="my github stats" width="450"/>&nbsp;
-  <img src="https://github-readme-stats-sigma-orcin-84.vercel.app/api/top-langs/?username=qxxiao&hide=Jupyter,html,Roff,CSS&langs_count=10&layout=compact&theme=tokyonight" alt="languages" height="177">
+  <img src="https://github-readme-stats-sigma-orcin-84.vercel.app/api/top-langs/?username=qxxiao&hide=Jupyter,html,Roff,CSS&langs_count=8&layout=compact&theme=tokyonight" alt="languages" height="177">
 </p>
 
 
