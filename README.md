@@ -11,11 +11,10 @@
 </p>
 
 
-- 🔭 Location: WuHan
+- 🔭 Location: WH
 - 🌱 Hobby：Reading & Coding
 - ⚡ C++ / Go / Java
 - ✍️ [Blogger](https://juejin.cn/user/3910296107747293/posts)
-- 🌙 Dream：AK LeetCode 
 
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
