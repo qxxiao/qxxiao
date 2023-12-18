@@ -10,12 +10,6 @@
   <img src="https://github-readme-stats-sigma-orcin-84.vercel.app/api/top-langs/?username=qxxiao&hide=Jupyter,html,Roff,CSS,SystemVerilog,Assembly&langs_count=6&layout=compact&theme=tokyonight" alt="languages" height="177">
 </p>
 
-
-- 🔭 Location: WH
-- 🌱 Hobby：Reading & Coding
-- ⚡ C++ / Go / Java
-- ✍️ [Blogger](https://juejin.cn/user/3910296107747293/posts)
-
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 
